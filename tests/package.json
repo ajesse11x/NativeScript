@@ -13,7 +13,7 @@
     }
   },
   "dependencies": {
-    "tns-core-modules": "*",
+    "tns-core-modules": "6.1.2",
     "tslib": "^1.9.3"
   },
   "devDependencies": {
