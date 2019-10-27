@@ -4,7 +4,7 @@
   "description": "CSS parser / stringifier",
   "main": "index",
   "dependencies": {
-    "source-map": "^0.1.38",
+    "source-map": "^0.7.3",
     "source-map-resolve": "^0.3.0",
     "urix": "^0.1.0",
     "inherits": "^2.0.1"
